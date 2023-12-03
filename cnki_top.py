@@ -69,7 +69,7 @@ def get_cnki(keyword):
     return None
 
 if __name__=="__main__":
-    get_cnki('财政激励')
+    get_cnki('财政')
     
  
 
